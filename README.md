@@ -14,6 +14,7 @@
 
 Ήδη έχουμε κατασκευάσει μια μακέτα η οποία αποτελεί την επιφάνεια του πλανήτη Άρη με την χρήση φελιζόλ τα οποία μορφοποιήσαμε με ένα πιστόλι θερμού αέρα και τα βάψαμε. Στην παρακάτω εικόνα φαίνεται η μακέτα με ένα απλό μοντέλο με τουβλάκια Lego που έχουμε κάνει για το rover.
 ![enter image description here](https://github.com/hackersppf/mars_rover/blob/main/fotos/lego%20rover.png?raw=true)
+
 Επίσης έχουμε ήδη κάνει διάφορα σχέδια για τον σταθμό βάσης στο TinkerCAD όπως αυτό που φαίνεται στην παρακάτω εικόνα
 ![enter image description here](https://github.com/hackersppf/mars_rover/blob/main/fotos/base%20by%20jason.png?raw=true)
 
